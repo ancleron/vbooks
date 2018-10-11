@@ -28,7 +28,10 @@
             android:theme="@style/AppTheme" />
         <activity
             android:name="com.ancleron.vewac.vbooks.PhotoActivity"
-            android:screenOrientation="landscape"></activity>
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+        </activity>
+
     </application>
 
 </manifest>
