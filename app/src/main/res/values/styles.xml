@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="title_text_style">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">@dimen/medium_1_textsize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="normal_text_style">
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/medium_0_textsize</item>
+    </style>
+
+
+    <style name="edit_text_style">
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:textSize">@dimen/medium_1_textsize</item>
+        <item name="android:inputType">textCapSentences</item>
+        <item name="android:paddingTop">@dimen/padding_5</item>
+        <item name="android:paddingBottom">@dimen/padding_5</item>
+        <item name="android:background">@drawable/rectangle</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="button_text_style">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@drawable/theme_button_bg</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textSize">@dimen/medium_0_textsize</item>
+    </style>
+
+</resources>

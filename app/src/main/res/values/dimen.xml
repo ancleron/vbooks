@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="verysmall_0_textsize">9sp</dimen>
+    <dimen name="verysmall_1_textsize">10sp</dimen>
+    <dimen name="verysmall_2_textsize">11sp</dimen>
+    <dimen name="small_0_textsize">12sp</dimen>
+    <dimen name="small_1_textsize">13sp</dimen>
+    <dimen name="small_2_textsize">14sp</dimen>
+    <dimen name="medium_0_textsize">15sp</dimen>
+    <dimen name="medium_1_textsize">16sp</dimen>
+    <dimen name="medium_2_textsize">17sp</dimen>
+    <dimen name="big_0_textsize">18sp</dimen>
+    <dimen name="big_1_textsize">19sp</dimen>
+    <dimen name="big_2_textsize">20sp</dimen>
+    <dimen name="big_3_textsize">22sp</dimen>
+    <dimen name="big_4_textsize">24sp</dimen>
+    <dimen name="verybig_0_textsize">25sp</dimen>
+    <dimen name="verybig_1_textsize">26sp</dimen>
+    <dimen name="verybig_2_textsize">27sp</dimen>
+    <dimen name="verybig_3_textsize">28sp</dimen>
+
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_3">3dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_7">7dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+</resources>

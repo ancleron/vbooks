@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vbooks</string>
+    <string name="photo_books">Photobooks</string>
+    <string name="enter_photo_book_name">Enter Photobook Name</string>
+    <string name="submit">Submit</string>
+
+    <string name="no_internet">Kindly check your internet connection and try again.</string>
+
+    <string name="photo_url">https://www.vewac.com/studio/</string>
+    <string name="enter_photo_no">Please enter the photo number</string>
+    <string name="enter_valid_photo_no">Enter the valid photo number</string>
+</resources>
