@@ -16,8 +16,8 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import project.sample.com.vewac.base.PreferencesManager;
-import project.sample.com.vewac.utils.AppUtils;
+import com.ancleron.vewac.vbooks.base.PreferencesManager;
+import com.ancleron.vewac.vbooks.utils.AppUtils;
 
 public class PhotoActivity extends AppCompatActivity implements View.OnClickListener {
     private PreferencesManager myPref;
